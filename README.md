@@ -1,6 +1,4 @@
-# RICHELLysS.github.io
-
-Welcome to MenicusLyS's blog 
+# Welcome to MenicusLyS's blog
 
 欢迎来到MeniscusLyS的博客
 
