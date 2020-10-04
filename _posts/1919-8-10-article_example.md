@@ -1,7 +1,7 @@
 ---
 layout: post
 author: MeniscusLyS
-title: Refrence
+title: Reference
 date: 2020-10-4
 published: true #write true to publish this article.
 ---
